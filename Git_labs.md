@@ -41,15 +41,6 @@ Examples:
  Local Repositores: git
 Central Repositories: github,bitbucket
 
-
-
-
-
-
-
-
-
-
 LifeCycle of Git:
 
 We have three phases
