@@ -17,7 +17,6 @@ Command:
 Reason:
        You can use the yum update command to update applications installed on a system. If you run the command without any package names specified, it will update all packages on the system.
  
-
 Then press Y for further continuation for updating packages
 
 
